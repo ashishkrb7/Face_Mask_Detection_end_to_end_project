@@ -1,0 +1,20 @@
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+Flask==1.1.2
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.2
+tensorflow==2.1 # TensorFlow is an open source machine learning framework for everyone.
+numpy==1.18.2 # NumPy is the fundamental package for array computing with Python.
+argparse==1.1 # Python command-line parsing library
+opencv-python==4.2.0.34 # Wrapper package for OpenCV python bindings.
+imutils==0.5.3 # A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, displaying Matplotlib images, sorting contours, detecting edges, and much more easier with OpenCV and both Python 2.7 and Python 3.
+scikit-learn==0.23.1 # A set of python modules for machine learning and data mining
+matplotlib==3.2.1 # Python plotting package
+MarkupSafe==1.1.1
+requests==2.24.0
+threadpoolctl==2.1.0
+Werkzeug==1.0.1
+wincertstore==0.2
+gunicorn
