@@ -4,7 +4,6 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
 from flask import Flask, request, redirect, url_for, render_template, send_from_directory,flash 
 from werkzeug.utils import secure_filename
-import numpy as np
 import cv2
 import config
 import os
