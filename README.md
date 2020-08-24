@@ -67,3 +67,9 @@ D:.
 ## Credit
 
 ## License
+```
+MIT License
+
+Copyright (c) 2020 Ashish Kumar
+```
+
