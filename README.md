@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ashishk766/)
 
 ## Project description
-
+[Dataset](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG)
 
 ## Directory structure
 ```
@@ -54,6 +54,16 @@ D:.
 
 ## Instruction to install the application in local machine
 
+1. Install Anaconda from this link https://www.anaconda.com/products/individual#windows and follow the steps mentioned in following link
+https://docs.anaconda.com/anaconda/install/windows/
+
+2. After Anaconda installation, go to search and run Anaconda Prompt and create virtual environment using following commands.
+
+`conda create -n FaceDetect python=3.7 anaconda`
+
+`conda activate FaceDetect`
+
+
 ## Application deployment in Heroku
 
 <!-- 1. Procfile — This specifies the commands to be executed by Heroku’s server by the app on startup.
@@ -65,6 +75,7 @@ D:.
 <img src="./log/DemoImage.png">
 
 ## Credit
+[PyImageSearch](https://www.pyimagesearch.com/)
 
 ## License
 ```
