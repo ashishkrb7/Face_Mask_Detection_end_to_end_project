@@ -90,10 +90,10 @@ pause
 ```
 
 ## Application deployment in Heroku
-
-<!-- 1. Procfile — This specifies the commands to be executed by Heroku’s server by the app on startup.
+Following three files are necessary if user want to publish this developed application in Heroku. As Heroku support max files size of 500mb including libraries and project size is more than that so, it does not deployed in Heroku successfully.
+1. Procfile — This specifies the commands to be executed by Heroku’s server by the app on startup.
 2. requirements.txt — This contains the list of modules in your virtual environment it can be gotten by executing in your terminal .
-3. runtime.txt — Used to specify the python version to be run of the server -->
+3. runtime.txt — Used to specify the python version to be run of the server
 
 ## Credit
 [PyImageSearch](https://www.pyimagesearch.com/)
