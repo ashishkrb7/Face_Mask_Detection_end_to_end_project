@@ -9,7 +9,6 @@
 ```
 D:.
 │   app.py
-│   application.py
 │   Aptfile
 │   config.py
 │   Engine.py
@@ -62,6 +61,12 @@ https://docs.anaconda.com/anaconda/install/windows/
 `conda create -n FaceDetect python=3.7 anaconda`
 
 `conda activate FaceDetect`
+
+3. Run Anaconda prompt and change the drive to the location of manual folder and run command `pip install -r requirements.txt`. This will install all the packages require for model execution.
+    - (base) C:\Users\css120804>conda activate FaceDetect
+    - (FaceDetect) C:\Users\css120804>
+    - (FaceDetect) C:\Users\css120804>pip install -r requirements.txt 
+
 
 
 ## Application deployment in Heroku
