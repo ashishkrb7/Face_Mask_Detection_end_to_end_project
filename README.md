@@ -91,7 +91,8 @@ pause
 
 ## Credit
 [PyImageSearch](https://www.pyimagesearch.com/)
-[Chandrika deb github link](https://github.com/chandrikadeb7)
+
+Chandrika deb [github link](https://github.com/chandrikadeb7)
 
 ## License
 ```
