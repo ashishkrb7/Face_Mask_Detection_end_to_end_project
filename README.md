@@ -2,6 +2,10 @@
 [![MIT License](https://img.shields.io/github/license/ashishcssom/Face_mask_detection.svg?style=flat-square)](https://github.com/ashishcssom/Face_mask_detection/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ashishk766/)
 
+## Demo
+
+<img src="./log/DemoImage.png">
+
 ## Project description
 [Dataset](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG)
 
@@ -63,21 +67,27 @@ https://docs.anaconda.com/anaconda/install/windows/
 `conda activate FaceDetect`
 
 3. Run Anaconda prompt and change the drive to the location of manual folder and run command `pip install -r requirements.txt`. This will install all the packages require for model execution.
-    - (base) C:\Users\css120804>conda activate FaceDetect
-    - (FaceDetect) C:\Users\css120804>
-    - (FaceDetect) C:\Users\css120804>pip install -r requirements.txt 
-
-
+    - (base) C:\Users\imash>conda activate FaceDetect
+    - (FaceDetect) C:\Users\imash>
+    - (FaceDetect) C:\Users\imash>pip install -r requirements.txt 
+4. MainAPI.bat is Batch file for easy start of server and it can be used as schedular. In this file modify the line number 5 and 6 for the location of activate.bat  in base and python.exe in virtual environment.
+```
+@echo off
+SET LOGFILE="%~dp0\log\MainAPIlog.log"
+(echo====================================================================================================== >> %LOGFILE%)
+(echo Script Start Running at - ^ %date% %time% >> %LOGFILE%)
+call "C:\ProgramData\Anaconda3\Scripts\activate.bat"
+"C:\Users\imash\.conda\envs\FaceDetection\python.exe" "%~dp0\app.py"
+(echo Script Successfully Executed at - ^ %date% %time% >> %LOGFILE%)
+(echo====================================================================================================== >> %LOGFILE%)
+pause
+```
 
 ## Application deployment in Heroku
 
 <!-- 1. Procfile — This specifies the commands to be executed by Heroku’s server by the app on startup.
 2. requirements.txt — This contains the list of modules in your virtual environment it can be gotten by executing in your terminal .
 3. runtime.txt — Used to specify the python version to be run of the server -->
-
-## Demo
-
-<img src="./log/DemoImage.png">
 
 ## Credit
 [PyImageSearch](https://www.pyimagesearch.com/)
