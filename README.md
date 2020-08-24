@@ -1,5 +1,5 @@
 # Face mask detection application
-[![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection.svg?style=flat-square)](https://github.com/ashishcssom/Face_mask_detection/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square)](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ashishk766/)
 
 <a href="https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/stargazers"><img src="https://img.shields.io/github/stars/ashishcssom/Face_Mask_Detection_end_to_end_project" alt="Stars Badge"/></a>
