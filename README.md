@@ -7,7 +7,7 @@
 <img src="./log/DemoImage.png">
 
 ## Project description
-[Dataset](https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG)
+[Dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing)
 
 ## Directory structure
 ```
@@ -70,7 +70,7 @@ https://docs.anaconda.com/anaconda/install/windows/
     - (base) C:\Users\imash>conda activate FaceDetect
     - (FaceDetect) C:\Users\imash>
     - (FaceDetect) C:\Users\imash>pip install -r requirements.txt 
-4. MainAPI.bat is Batch file for easy start of server and it can be used as schedular. In this file modify the line number 5 and 6 for the location of activate.bat  in base and python.exe in virtual environment.
+4. MainAPI.bat is Batch file for easy start of server and it can be used as schedular. In this file modify the line number 5 and 6 for the location of activate.bat  in base and python.exe in virtual environment. To run the server in your local, just hit MainAPI.bat file.
 ```
 @echo off
 SET LOGFILE="%~dp0\log\MainAPIlog.log"
