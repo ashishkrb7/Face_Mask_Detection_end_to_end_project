@@ -13,6 +13,9 @@
 <img src="./log/DemoImage.png">
 
 ## Project description
+
+[Model training](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb) 
+[]()
 [Dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing)
 
 ## Directory structure
