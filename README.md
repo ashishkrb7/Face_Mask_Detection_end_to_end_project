@@ -19,18 +19,16 @@
 |<img src="./log/training loss.PNG">|<img src="./log/validation accuracy.PNG">|<img src="./log/testing accuracy.PNG">|
 
 Model is trained on Google colab with following folder architecture
-'''
+
+```
 ├───[dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing)
 │   ├───without_mask
 │   │       Snapshot.png
 │   │
 │   └───with_mask
 │           Snapshot (1).png    
-├───[ModelTrainer.ipynb](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb) 
-'''
-[Model training](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb)
-
-
+└───[ModelTrainer.ipynb](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb) 
+```
 ## Directory structure
 ```
 D:.
