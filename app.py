@@ -38,7 +38,7 @@ def cleaner(directory):
 def Home():
     return render_template('WebSnapshot.html')
 
-@app.route('/demo', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
         if 'file' not in request.files:
