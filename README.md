@@ -14,6 +14,10 @@
 
 ## Project description
 
+|Training performance|Validation performance|Validation performance|
+|---|---|---|
+|<img src="./log/training loss.PNG">|<img src="./log/validation accuracy.PNG">|<img src="./log/testing accuracy.PNG">|
+
 [Model training](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb) 
 
 [Dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing)
