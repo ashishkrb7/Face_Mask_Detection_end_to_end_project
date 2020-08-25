@@ -18,7 +18,7 @@
 
 [Model training code](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb)
 
-|Training performance|Validation performance|Validation performance|
+|Training performance|Validation performance|Testing performance|
 |---|---|---|
 |<img src="./log/training loss.PNG">|<img src="./log/validation accuracy.PNG">|<img src="./log/testing accuracy.PNG">|
 
