@@ -98,6 +98,10 @@ Following three files are necessary if user want to publish this developed appli
 2. requirements.txt — This contains the list of modules in your virtual environment it can be gotten by executing in your terminal .
 3. runtime.txt — Used to specify the python version to be run of the server
 
+## Dockerizing the software
+
+<img src="./log/docker.png">
+
 ## Credit
 [PyImageSearch](https://www.pyimagesearch.com/)
 
