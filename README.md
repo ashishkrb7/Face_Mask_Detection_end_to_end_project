@@ -15,6 +15,7 @@
 ## Project description
 
 [Dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing)
+
 [Model training code](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb)
 
 |Training performance|Validation performance|Validation performance|
