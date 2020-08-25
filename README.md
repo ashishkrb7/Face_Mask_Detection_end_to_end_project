@@ -10,7 +10,8 @@
 
 ## Demo
 
-<img src="./log/demo.gif">
+|---|---|
+|<img src="./log/demo.gif">|<img src="./log/DemoImage.png">|
 
 ## Project description
 
