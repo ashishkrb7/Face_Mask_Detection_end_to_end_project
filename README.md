@@ -14,15 +14,13 @@
 
 ## Project description
 
-[Dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing)
-
 [Model training code](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb)
 
 |Training performance|Validation performance|Testing performance|
 |---|---|---|
 |<img src="./log/training loss.PNG">|<img src="./log/validation accuracy.PNG">|<img src="./log/testing accuracy.PNG">|
 
-Model is trained on Google colab with following folder architecture
+Model is trained on Google colab ([model training code](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb)) with following folder architecture. All the [dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing) are splitted into model train, validation and testing data which constitutes are 3187, 683 and 684 images respectively.
 
 ```
 ├───Dataset
