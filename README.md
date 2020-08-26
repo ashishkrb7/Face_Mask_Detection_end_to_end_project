@@ -90,9 +90,9 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 3. Run Anaconda prompt and change the drive to the location of manual folder and run command `pip install -r requirements.txt`. This will install all the packages require for model execution.
 ```
-- (base) C:\Users\imash>conda activate FaceDetect
-- (FaceDetect) C:\Users\imash>
-- (FaceDetect) C:\Users\imash>pip install -r requirements.txt 
+(base) C:\Users\imash>conda activate FaceDetect
+(FaceDetect) C:\Users\imash>
+(FaceDetect) C:\Users\imash>pip install -r requirements.txt 
 ```
 4. MainAPI.bat is Batch file for easy start of server and it can be used as schedular. In this file, modify the line number 5 and 6 for the location of activate.bat in base and python.exe in virtual environment. To run the server in your local, just hit MainAPI.bat file.
 ```
