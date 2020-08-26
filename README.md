@@ -11,7 +11,7 @@
 ## Demo
 | | |
 |---|---|
-|<img src="./log/demo.gif" width="200" height="200">|<img src="./log/DemoImage.png" width="200" height="200">|
+|<img src="./log/demo.gif" width="800" height="500">|<img src="./log/DemoImage.png" width="800" height="500">|
 
 ## Project description
 
