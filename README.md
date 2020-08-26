@@ -117,7 +117,7 @@ Following three files are necessary if user want to publish this developed appli
 
 <img src="./log/docker.png">
 
-`Work in progress`
+Official Docker [documentation](https://docs.docker.com/get-started/)
 
 ## Credit
 [PyImageSearch](https://www.pyimagesearch.com/)
