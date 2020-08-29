@@ -1,6 +1,6 @@
 # Face mask detection application
 ```
-Documentation is in progress...
+In progress...
 ```
 
 [![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square)](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/LICENSE)
