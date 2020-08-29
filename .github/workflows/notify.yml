@@ -1,0 +1,2 @@
+- name: google-chat-github-notification
+  uses: CommonMarvel/google-chat-notification@v1.1.1
