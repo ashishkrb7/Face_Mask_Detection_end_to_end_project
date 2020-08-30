@@ -112,6 +112,9 @@ pause
 ```
 
 ## Application deployment in Heroku
+
+[App](https://face-mask-detection-pro.herokuapp.com/)
+
 Following three files are necessary if user want to publish this developed application in Heroku.
 1. Procfile — This specifies the commands to be executed by Heroku’s server by the app on startup.
 2. requirements.txt — This contains the list of modules in your virtual environment it can be gotten by executing in your terminal .
