@@ -19,12 +19,11 @@ In progress...
 
 ## Project description
 
-<u>Problem statement</u>
-
+Problem statement
+---
 The idea behind this project is to develop the web application to detect the face mask in an image. It should have the capability to identifying multiple person in an image with and without mask.
-
-<u>Solution</u>
-
+Solution
+---
 A flask based application is developed utilizing the transfer learning concept to identify the person with or without mask in an image with high accuracy. Model is trained on Google colab ([model training code](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb)) with following folder architecture.
 ```
 ├───Dataset
@@ -35,7 +34,7 @@ A flask based application is developed utilizing the transfer learning concept t
 │           Snapshot (1).png    
 └───ModelTrainer.ipynb 
 ```
-All the [dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing) are splitted into model train, validation and testing data which constitutes are 3187, 683 and 684 images respectively. 
+All the [dataset](https://drive.google.com/drive/folders/1QI_O0soGWn0jzm6mFKnhVh4OkKCb-_Nn?usp=sharing) are splitted into model train, validation and testing data which constitutes are 3187, 683 and 684 images respectively. The training, validation and testing accuracy are 97%, 93% and 95% respectively.
 
 |Training performance|Validation performance|Testing performance|
 |---|---|---|
