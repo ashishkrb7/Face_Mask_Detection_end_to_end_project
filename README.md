@@ -119,7 +119,7 @@ Following three files are necessary if user want to publish this developed appli
 
 ## Dockerizing the software
 
-<img src="./log/docker.png">
+<div align="center"><img src="./log/docker.png"></div>
 
 Official Docker [documentation](https://docs.docker.com/get-started/)
 
