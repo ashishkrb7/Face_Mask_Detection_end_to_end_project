@@ -17,7 +17,7 @@
 ## Project description
 
 ### Problem statement
-The idea behind this project is to develop the web application to detect the face mask in an image. It should have the capability to identifying multiple person in an image with and without mask.
+The idea behind this project is to develop the web application to detect the face mask in an image. It should have the capability of identifying multiple person in an image with and without mask.
 ### Solution
 A flask based application is developed utilizing the transfer learning concept to identify the person with or without mask in an image with high accuracy. Model is trained on Google colab ([model training code](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/notebook/ModelTrainer.ipynb)) with following folder architecture.
 ```
