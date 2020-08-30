@@ -34,11 +34,11 @@ def cleaner(directory):
     else:    
         pass
     
-@app.route('/webcam',methods=['POST'])
+@app.route('/webcam',methods=['POST','GET'])
 def Home():
     return render_template('WebSnapshot.html')
 
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['POST','GET'])
 def index():
     if request.method == 'POST':
         if 'file' not in request.files:
@@ -65,4 +65,4 @@ def index():
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run("0.0.0.0",port="5000")
