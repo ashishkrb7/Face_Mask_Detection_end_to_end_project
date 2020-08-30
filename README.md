@@ -131,8 +131,7 @@ Chandrika deb [github link](https://github.com/chandrikadeb7)
 
 ## License
 ```
-MIT License
-
+[![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/LICENSE)
 Copyright (c) 2020 Ashish Kumar
 ```
 
