@@ -6,8 +6,6 @@ In progress...
 [![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=4D4DFF)](https://www.linkedin.com/in/ashishk766/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ashish%Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishk766/)](https://www.linkedin.com/in/ashlyemavericks/)
-
 <a href="https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/stargazers"><img src="https://img.shields.io/github/stars/ashishcssom/Face_Mask_Detection_end_to_end_project?color=2b9348" alt="Stars Badge"/></a>
 <a href="https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/network/members"><img src="https://img.shields.io/github/forks/ashishcssom/Face_Mask_Detection_end_to_end_project?color=2b9348" alt="Forks Badge"/></a>
 <a href="https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/pulls"><img src="https://img.shields.io/github/issues-pr/ashishcssom/Face_Mask_Detection_end_to_end_project?color=2b9348" alt="Pull Requests Badge"/></a>
