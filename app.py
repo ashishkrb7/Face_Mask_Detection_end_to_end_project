@@ -34,11 +34,11 @@ def cleaner(directory):
     else:    
         pass
     
-@app.route('/webcam',methods=['GET','POST'])
-def Home():
-    return render_template('WebSnapshot.html')
+# @app.route('/webcam',methods=['POST'])
+# def Home():
+#     return render_template('WebSnapshot.html')
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['POST'])
 def index():
     if request.method == 'POST':
         if 'file' not in request.files:
