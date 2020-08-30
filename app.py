@@ -38,7 +38,7 @@ def cleaner(directory):
 # def Home():
 #     return render_template('WebSnapshot.html')
 
-@app.route('/',methods=['get'])
+@app.route('/',methods=['GET'])
 def Home2():
     return render_template('index.html')
 
