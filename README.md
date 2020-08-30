@@ -1,4 +1,4 @@
-# Face mask detection application
+# <div align="center">Face mask detection application</div>
 
 [![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/LICENSE)
 
