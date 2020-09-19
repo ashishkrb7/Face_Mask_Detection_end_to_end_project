@@ -7,7 +7,9 @@
 <a href="https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/issues"><img src="https://img.shields.io/github/issues/ashishcssom/Face_Mask_Detection_end_to_end_project?color=2b9348" alt="Issues Badge"/></a>
 <a href="https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ashishcssom/Face_Mask_Detection_end_to_end_project?color=2b9348"></a>
 </div>
+
 [![Downloads](https://pepy.tech/badge/Face_Mask_Detection_end_to_end_project)](https://pepy.tech/project/Face_Mask_Detection_end_to_end_project)
+
 ## Demo
 | | |
 |---|---|
