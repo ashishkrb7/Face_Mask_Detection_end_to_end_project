@@ -8,8 +8,6 @@
 <a href="https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ashishcssom/Face_Mask_Detection_end_to_end_project?color=2b9348"></a>
 </div>
 
-[grd_count user="ashishcssom" repo="Face_Mask_Detection_end_to_end_project"]
-
 ## Demo
 | | |
 |---|---|
