@@ -5,7 +5,7 @@ Flask==1.1.2
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
-tensorflow==2.0 # TensorFlow is an open source machine learning framework for everyone.
+tensorflow==2.5.3 # TensorFlow is an open source machine learning framework for everyone.
 numpy==1.18.2 # NumPy is the fundamental package for array computing with Python.
 opencv-python==4.2.0.34 # Wrapper package for OpenCV python bindings.
 MarkupSafe==1.1.1
